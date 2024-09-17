@@ -22,8 +22,8 @@ This is a backend application for a voting system where users can vote for candi
 
    ```bash
    git clone https://github.com/Pankaj-Chadda/voting-app.git
-2. run `npm install` in terminal // it will install all the packages used.
-3. run `npm run start` command in terminal.
+2. run `npm install` in terminal to install all the packages used.
+3. run `npm run start` command in terminal to start the server.
 
 # API Endpoints
 
