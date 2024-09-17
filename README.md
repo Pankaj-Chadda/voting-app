@@ -64,3 +64,6 @@ This is a backend application for a voting system where users can vote for candi
 
 ### Change Password
 - `PUT /users/profile/password`: Change user password
+
+### Live link
+https://voting-app-ja3y.onrender.com
